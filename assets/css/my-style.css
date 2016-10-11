@@ -1,3 +1,21 @@
+cursor: url('http://rs916.pbsrc.com/albums/ad9/sugarycandy/cursors/pinkheart.gif~c200');
 body {
+  cursor: url('http://rs916.pbsrc.com/albums/ad9/sugarycandy/cursors/pinkheart.gif~c200');
   font-family: 'Helvetica';
+  color: #925C6F;
+
+}
+
+div div p {
+  color: #925C6F;
+}
+a:link {
+  color: BF547B;
+}
+a:hover {
+  color: #925C6F;
+}
+a:visited {
+  color: #61434E;
+
 }

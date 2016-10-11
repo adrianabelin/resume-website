@@ -10,12 +10,12 @@ div div p {
   color: #925C6F;
 }
 a:link {
-  color: BF547B;
+  color: white;
 }
 a:hover {
-  color: blue;
+  color: #925C6F;
 }
 a:visited {
-  color: white;
+  color: black;
 
 }

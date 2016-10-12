@@ -200,7 +200,7 @@ p {
 }
 .main-wrapper .job-title {
   color: #925C6F;
-  font-size: 16px;
+  font-size: 17px;
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
@@ -216,7 +216,7 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .project-title {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
@@ -232,7 +232,7 @@ p {
   overflow: hidden;
 }
 .skillset .level-title {
-  font-size: 14px;
+  font-size: 17px;
   margin-top: 0;
   margin-bottom: 12px;
 }

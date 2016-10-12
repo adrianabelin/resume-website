@@ -9,3 +9,7 @@ body {
 div div p {
   color: #925C6F;
 }
+
+a:hover{
+  color: black;
+}
